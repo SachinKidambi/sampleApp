@@ -1,0 +1,15 @@
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\Sample.WiTronix.DataAccess.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\Sample.WiTronix.DataAccess.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\mscorlib.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\normidna.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\normnfc.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\normnfd.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\normnfkc.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\normnfkd.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.pdb

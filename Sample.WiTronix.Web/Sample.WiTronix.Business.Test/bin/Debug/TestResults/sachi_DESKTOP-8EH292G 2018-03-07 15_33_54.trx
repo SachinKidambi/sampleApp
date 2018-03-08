@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bdaaa9fe-7047-4c10-9e11-fd79d781081b" name="sachi@DESKTOP-8EH292G 2018-03-07 15:33:54" runUser="DESKTOP-8EH292G\sachi" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="863fe315-e04b-4c79-9244-7725248b7e2b">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="sachi_DESKTOP-8EH292G 2018-03-07 15_33_54" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-03-07T15:33:54.0246920-08:00" queuing="2018-03-07T15:33:54.4152261-08:00" start="2018-03-07T15:33:54.5716445-08:00" finish="2018-03-07T15:33:54.9235785-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Add_Test_Method" storage="sample.witronix.business.test.dll" id="d974e894-3f8e-423a-a6d3-7f45ca69b3c7">
+      <Execution id="c40d278c-f8bb-46de-a731-6d3dd9b05202" />
+      <TestMethod codeBase="C:/Users/sachi/Downloads/Sample.WiTronix.Web (1)/Sample.WiTronix.Web/Sample.WiTronix.Business.Test/bin/Debug/Sample.WiTronix.Business.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Sample.WiTronix.Business.Test.UnitTest1, Sample.WiTronix.Business.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Add_Test_Method" />
+    </UnitTest>
+    <UnitTest name="Sub_Test_Method1" storage="sample.witronix.business.test.dll" id="51c85958-6bc1-a50d-b1f3-f344e115d05a">
+      <Execution id="10a7c717-7333-4ea6-bf99-4c7d30edef72" />
+      <TestMethod codeBase="C:/Users/sachi/Downloads/Sample.WiTronix.Web (1)/Sample.WiTronix.Web/Sample.WiTronix.Business.Test/bin/Debug/Sample.WiTronix.Business.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Sample.WiTronix.Business.Test.UnitTest1, Sample.WiTronix.Business.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Sub_Test_Method1" />
+    </UnitTest>
+    <UnitTest name="Sub_Test_Method2" storage="sample.witronix.business.test.dll" id="03a92b9a-5792-f6bc-efd3-a89babea7d01">
+      <Execution id="4fc98545-6da4-4ddb-9179-d202c0275c63" />
+      <TestMethod codeBase="C:/Users/sachi/Downloads/Sample.WiTronix.Web (1)/Sample.WiTronix.Web/Sample.WiTronix.Business.Test/bin/Debug/Sample.WiTronix.Business.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Sample.WiTronix.Business.Test.UnitTest1, Sample.WiTronix.Business.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Sub_Test_Method2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d974e894-3f8e-423a-a6d3-7f45ca69b3c7" executionId="c40d278c-f8bb-46de-a731-6d3dd9b05202" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="51c85958-6bc1-a50d-b1f3-f344e115d05a" executionId="10a7c717-7333-4ea6-bf99-4c7d30edef72" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="03a92b9a-5792-f6bc-efd3-a89babea7d01" executionId="4fc98545-6da4-4ddb-9179-d202c0275c63" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c40d278c-f8bb-46de-a731-6d3dd9b05202" testId="d974e894-3f8e-423a-a6d3-7f45ca69b3c7" testName="Add_Test_Method" computerName="DESKTOP-8EH292G" duration="00:00:00.0122682" startTime="2018-03-07T15:33:54.5891890-08:00" endTime="2018-03-07T15:33:54.8162939-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c40d278c-f8bb-46de-a731-6d3dd9b05202">
+    </UnitTestResult>
+    <UnitTestResult executionId="10a7c717-7333-4ea6-bf99-4c7d30edef72" testId="51c85958-6bc1-a50d-b1f3-f344e115d05a" testName="Sub_Test_Method1" computerName="DESKTOP-8EH292G" duration="00:00:00.0005701" startTime="2018-03-07T15:33:54.8398572-08:00" endTime="2018-03-07T15:33:54.8418618-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10a7c717-7333-4ea6-bf99-4c7d30edef72">
+    </UnitTestResult>
+    <UnitTestResult executionId="4fc98545-6da4-4ddb-9179-d202c0275c63" testId="03a92b9a-5792-f6bc-efd3-a89babea7d01" testName="Sub_Test_Method2" computerName="DESKTOP-8EH292G" duration="00:00:00.0006541" startTime="2018-03-07T15:33:54.8463799-08:00" endTime="2018-03-07T15:33:54.8478835-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4fc98545-6da4-4ddb-9179-d202c0275c63">
+    </UnitTestResult>
+  </Results>
+</TestRun>

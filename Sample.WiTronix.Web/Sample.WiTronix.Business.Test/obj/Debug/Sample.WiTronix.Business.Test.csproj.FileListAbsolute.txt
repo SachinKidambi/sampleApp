@@ -1,0 +1,25 @@
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.Test.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.Test.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.csprojResolveAssemblyReference.cache
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.Test.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.Test.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\mscorlib.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\normidna.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\normnfc.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\normnfd.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\normnfkc.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\normnfkd.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.pdb

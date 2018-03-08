@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c4dcb7ab-92ef-48d1-a286-286a4f03541d" name="sachi@DESKTOP-8EH292G 2018-03-07 16:17:29" runUser="DESKTOP-8EH292G\sachi" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="d67ae602-da36-4215-a4b3-653a1de94f27">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="sachi_DESKTOP-8EH292G 2018-03-07 16_17_29" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-03-07T16:17:29.2012781-08:00" queuing="2018-03-07T16:17:29.5812893-08:00" start="2018-03-07T16:17:29.7356636-08:00" finish="2018-03-07T16:17:30.0299432-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Add_Test_Method" storage="sample.witronix.business.test.dll" id="d974e894-3f8e-423a-a6d3-7f45ca69b3c7">
+      <Execution id="63ad5e78-36b8-4ccb-b825-d6b4db199f29" />
+      <TestMethod codeBase="C:/Users/sachi/Downloads/Sample.WiTronix.Web (1)/Sample.WiTronix.Web/Sample.WiTronix.Business.Test/bin/Debug/Sample.WiTronix.Business.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Sample.WiTronix.Business.Test.UnitTest1, Sample.WiTronix.Business.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Add_Test_Method" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d974e894-3f8e-423a-a6d3-7f45ca69b3c7" executionId="63ad5e78-36b8-4ccb-b825-d6b4db199f29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="63ad5e78-36b8-4ccb-b825-d6b4db199f29" testId="d974e894-3f8e-423a-a6d3-7f45ca69b3c7" testName="Add_Test_Method" computerName="DESKTOP-8EH292G" duration="00:00:00.0118892" startTime="2018-03-07T16:17:29.7527060-08:00" endTime="2018-03-07T16:17:29.9788256-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="63ad5e78-36b8-4ccb-b825-d6b4db199f29">
+    </UnitTestResult>
+  </Results>
+</TestRun>

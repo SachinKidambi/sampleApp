@@ -1,0 +1,21 @@
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.csprojResolveAssemblyReference.cache
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\mscorlib.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\normidna.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\normnfc.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\normnfd.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\normnfkc.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\normnfkd.nlp
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.csprojResolveAssemblyReference.cache
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.dll
+C:\Users\sachi\Downloads\Sample.WiTronix.Web (1)\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.pdb
